@@ -1,0 +1,326 @@
+[
+  {
+    "studentId": "653450085-9",
+    "name": "เขมจิรา บุญเลิศ",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450086-7",
+    "name": "จารุวิทย์ แสงแก้วสิริกุล",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450087-5",
+    "name": "ชวกร เนืองภา",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450088-3",
+    "name": "ณัฐดนัย ภาคภูมิ",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450089-1",
+    "name": "ณัฐวรรณ พวงมะลัย",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450090-6",
+    "name": "ถิรวัฒน์ โชติธนกิจไพศาล",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450091-4",
+    "name": "เทพฤทธิ์ อินทรประพันธ์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450092-2",
+    "name": "ธนาพร ชนิดกุล",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450093-0",
+    "name": "นพคุณ นาชัยพูล",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450094-8",
+    "name": "นันทิพัฒน์ บุตรวัง",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450095-6",
+    "name": "พิชชากร สกุลไทย",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450096-4",
+    "name": "พิชัย ทองอาสา",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450097-2",
+    "name": "พิพิธธน พิพิธกุล",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450098-0",
+    "name": "พิริยกร พันธุ์พานิชย์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450099-8",
+    "name": "ภานุวัฒน์ ธรรมบุตร",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450100-9",
+    "name": "เมธากร สิงห์คาน",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450101-7",
+    "name": "วงศธร ทองอินทร์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450102-5",
+    "name": "วรพล พลตรี",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450103-3",
+    "name": "วิชญ์พล ยืนยง",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450104-1",
+    "name": "ศานต์ฤทัย สายบุตร",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450105-9",
+    "name": "อดุลวิทย์ บุตรเรียง",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450106-7",
+    "name": "อนิวัตติ์ ณ หนองคาย",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450107-5",
+    "name": "อรปรียา จันทะโคตร",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450108-3",
+    "name": "อัครวิชญ์ พบวงษา",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450279-6",
+    "name": "กฤตชวกร ชวลิตกิตติวงศ์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450280-1",
+    "name": "จันทิมา พรมวัง",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450281-9",
+    "name": "ชฎาพร พินิจสัย",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450282-7",
+    "name": "ณภัทร สุยังกุล",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450283-5",
+    "name": "ณัฏฐกิตติ์ มิตรสูงเนิน",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450284-3",
+    "name": "ณัฐณิชา พรมปิก",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450285-1",
+    "name": "ธนกร สว่างสูงเนิน",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450286-9",
+    "name": "ธนพร รัตนศิระประภา",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450287-7",
+    "name": "ธนาโชค สุวรรณ์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450288-5",
+    "name": "ธีร ริ้วทวี",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450289-3",
+    "name": "ธีรภัทร โพธิ์ศรี",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450290-8",
+    "name": "นภสินธุ์ ศรีบุรินทร์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450291-6",
+    "name": "นันธวัฒน์ แผ่ความดี",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450292-4",
+    "name": "เนติธร ศรีมี",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450293-2",
+    "name": "ปฏิพัทธ์ มาตรา",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450294-0",
+    "name": "ประจักษ์ ศรีทอง",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450295-8",
+    "name": "ภานุวัฒน์ สารวงษ์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450296-6",
+    "name": "มหัคฆพันธ์ ปลั่งกลาง",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450297-4",
+    "name": "รามิล ไกยบุตร",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450298-2",
+    "name": "วรชิต ทองเลิศ",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450299-0",
+    "name": "วรโชติ ทองเลิศ",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450300-1",
+    "name": "ฮารูณ ซิดดิ๊ก คูเรซิ",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450507-9",
+    "name": "ชาคริต พูลพิพิธ",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450508-7",
+    "name": "ณภัทร สีหะวงค์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450509-5",
+    "name": "ทวีศิลป์ ใจดี",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450510-0",
+    "name": "นันทวัฒน์ แซ่ฮวม",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450511-8",
+    "name": "ภูมิพัฒน์ วงศ์พันธ์",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450512-6",
+    "name": "วัชโรธร เอี่ยมสอาด",
+    "gender": 0,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450513-4",
+    "name": "ศิริพร แก้วลินลา",
+    "gender": 1,
+    "major": "Computer Science"
+  },
+  {
+    "studentId": "653450581-7",
+    "name": "ปิยชนน์ คนยง",
+    "gender": 0,
+    "major": "Computer Science"
+  }
+]
